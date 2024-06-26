@@ -1,0 +1,31 @@
+_repo: Wild-flowers-of-the-north-eastern-states-b-Being-three-hundred-and-eight-individuals-common-t__73825
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Miller, Ellen
+    gutenberg_agent_id: '57234'
+    url: http://www.gutenberg.org/2009/agents/57234
+  - agent_name: Whiting, Margaret Christine
+    gutenberg_agent_id: '57235'
+    url: http://www.gutenberg.org/2009/agents/57235
+description: ''
+gutenberg_issued: '2024-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73825'
+language: en
+pgterms:marc904: https://archive.org/details/wildflowersofnor00mill_0
+pgterms:marc905: 20231204103412miller
+pgterms:marc906: '1895'
+pgterms:marc907: US
+production_note: Joeri de Ruiter and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bG. P. Putnam''s sons, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Wild flowers of the north-eastern states : $b Being three hundred and eight
+  individuals common to the north-eastern United States'
+url: http://www.gutenberg.org/ebooks/73825
